@@ -1,0 +1,11 @@
+[33mcommit 1a5b0a18e0b63138d7a9f8a961c69378ba566e72[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Luiz Fernando <lfs.bastos67@gmail.com>
+Date:   Wed Jan 22 14:28:19 2025 -0300
+
+    Nova mensagem do commit
+
+[33mcommit a011cb2c43f7beb08be72ed868b6f11b2fc5a192[m
+Author: Luiz Fernando <lfs.bastos67@gmail.com>
+Date:   Tue Jan 21 16:03:41 2025 -0300
+
+    Projeto inicial
